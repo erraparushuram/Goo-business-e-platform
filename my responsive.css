@@ -1,0 +1,24 @@
+.productimage {
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+
+.productIMG {
+    width: 94vw;
+    height: 57vw;
+}
+.productimage {
+
+
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+
+}
